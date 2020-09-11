@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/assessment_netart/static/css/main.69484bbf.chunk.css",
+    "main.js": "/assessment_netart/static/js/main.27900a08.chunk.js",
+    "main.js.map": "/assessment_netart/static/js/main.27900a08.chunk.js.map",
+    "runtime-main.js": "/assessment_netart/static/js/runtime-main.f877ab46.js",
+    "runtime-main.js.map": "/assessment_netart/static/js/runtime-main.f877ab46.js.map",
+    "static/js/2.0f73ca60.chunk.js": "/assessment_netart/static/js/2.0f73ca60.chunk.js",
+    "static/js/2.0f73ca60.chunk.js.map": "/assessment_netart/static/js/2.0f73ca60.chunk.js.map",
+    "index.html": "/assessment_netart/index.html",
+    "precache-manifest.14133b1d71f5c3bf291c704140de8ac0.js": "/assessment_netart/precache-manifest.14133b1d71f5c3bf291c704140de8ac0.js",
+    "service-worker.js": "/assessment_netart/service-worker.js",
+    "static/css/main.69484bbf.chunk.css.map": "/assessment_netart/static/css/main.69484bbf.chunk.css.map",
+    "static/js/2.0f73ca60.chunk.js.LICENSE.txt": "/assessment_netart/static/js/2.0f73ca60.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/assessment_netart/static/media/1.29d96123.png",
+    "static/media/2.png": "/assessment_netart/static/media/2.57d5c650.png",
+    "static/media/3.png": "/assessment_netart/static/media/3.b5ddb141.png",
+    "static/media/logo.png": "/assessment_netart/static/media/logo.5762018e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f877ab46.js",
+    "static/js/2.0f73ca60.chunk.js",
+    "static/css/main.69484bbf.chunk.css",
+    "static/js/main.27900a08.chunk.js"
+  ]
+}
